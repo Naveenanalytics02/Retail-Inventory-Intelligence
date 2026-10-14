@@ -1,0 +1,241 @@
+product_id,product_name,category,unit_cost,selling_price,supplier_id
+P0001,Wireless Mouse 1,Electronics,8191.67,12557.51,S012
+P0002,Wireless Mouse 2,Electronics,7831.91,12872.58,S001
+P0003,Wireless Mouse 3,Electronics,4903.66,8266.86,S003
+P0004,Keyboard 1,Electronics,9249.03,13694.47,S014
+P0005,Keyboard 2,Electronics,6178.65,9029.27,S015
+P0006,Keyboard 3,Electronics,1775.24,2520.25,S019
+P0007,Bluetooth Speaker 1,Electronics,861.44,1307.84,S020
+P0008,Bluetooth Speaker 2,Electronics,6977.67,10799.74,S005
+P0009,Bluetooth Speaker 3,Electronics,3366.86,4731.08,S011
+P0010,Power Bank 1,Electronics,2835.2,4738.83,S007
+P0011,Power Bank 2,Electronics,3832.14,4907.48,S002
+P0012,Power Bank 3,Electronics,7680.07,10351.33,S021
+P0013,USB Cable 1,Electronics,10521.8,16854.2,S012
+P0014,USB Cable 2,Electronics,5289.86,8684.05,S026
+P0015,USB Cable 3,Electronics,1904.01,2624.01,S030
+P0016,Headphones 1,Electronics,1765.6,2319.94,S030
+P0017,Headphones 2,Electronics,505.98,696.37,S003
+P0018,Headphones 3,Electronics,579.95,844.04,S009
+P0019,Webcam 1,Electronics,6075.54,9394.11,S010
+P0020,Webcam 2,Electronics,4382.57,7325.27,S022
+P0021,Webcam 3,Electronics,3015.79,4460.51,S020
+P0022,Smart Watch 1,Electronics,4681.74,7892.9,S020
+P0023,Smart Watch 2,Electronics,3339.07,5169.39,S003
+P0024,Smart Watch 3,Electronics,3960.1,5316.12,S017
+P0025,Memory Card 1,Electronics,3567.98,6023.85,S028
+P0026,Memory Card 2,Electronics,1092.01,1462.55,S001
+P0027,Memory Card 3,Electronics,7795.04,12007.11,S021
+P0028,Laptop Stand 1,Electronics,6128.71,10374.83,S023
+P0029,Laptop Stand 2,Electronics,8229.56,13009.37,S027
+P0030,Laptop Stand 3,Electronics,3284.84,5260.9,S005
+P0031,Electric Kettle 1,Home Appliances,9778.74,14832.05,S011
+P0032,Electric Kettle 2,Home Appliances,12393.33,19819.07,S009
+P0033,Electric Kettle 3,Home Appliances,5355.08,6925.51,S029
+P0034,Mixer Grinder 1,Home Appliances,12988.7,17703.33,S004
+P0035,Mixer Grinder 2,Home Appliances,1035.55,1507.81,S019
+P0036,Mixer Grinder 3,Home Appliances,5751.06,7177.83,S009
+P0037,Toaster 1,Home Appliances,10611.32,14785.47,S018
+P0038,Toaster 2,Home Appliances,12695.48,19523.68,S025
+P0039,Toaster 3,Home Appliances,2411.32,4008.45,S030
+P0040,Table Fan 1,Home Appliances,10680.14,14036.64,S016
+P0041,Table Fan 2,Home Appliances,12404.56,18328.98,S028
+P0042,Table Fan 3,Home Appliances,4503.77,7647.97,S030
+P0043,Iron 1,Home Appliances,13540.46,22344.59,S027
+P0044,Iron 2,Home Appliances,3479.64,4660.75,S019
+P0045,Iron 3,Home Appliances,11108.57,18313.09,S024
+P0046,Air Purifier 1,Home Appliances,6544.02,10757.62,S020
+P0047,Air Purifier 2,Home Appliances,1994.79,2554.96,S006
+P0048,Air Purifier 3,Home Appliances,10299.63,15349.98,S016
+P0049,Room Heater 1,Home Appliances,2240.9,3432.5,S029
+P0050,Room Heater 2,Home Appliances,4831.68,6535.73,S002
+P0051,Room Heater 3,Home Appliances,10624.91,16213.41,S009
+P0052,Hand Blender 1,Home Appliances,3298.14,3987.58,S014
+P0053,Hand Blender 2,Home Appliances,5420.68,8528.06,S008
+P0054,Hand Blender 3,Home Appliances,12858.97,19658.88,S001
+P0055,Coffee Maker 1,Home Appliances,8504.07,12368.38,S022
+P0056,Coffee Maker 2,Home Appliances,4565.87,6036.06,S006
+P0057,Coffee Maker 3,Home Appliances,14700.28,21217.96,S008
+P0058,Vacuum Cleaner 1,Home Appliances,9762.17,15594.15,S030
+P0059,Vacuum Cleaner 2,Home Appliances,9960.47,15283.96,S001
+P0060,Vacuum Cleaner 3,Home Appliances,3572.45,5577.4,S019
+P0061,Electric Trimmer 1,Personal Care,2330.82,3692.66,S017
+P0062,Electric Trimmer 2,Personal Care,3978.75,5709.4,S014
+P0063,Electric Trimmer 3,Personal Care,3667.97,5080.43,S009
+P0064,Hair Dryer 1,Personal Care,3816.98,5211.61,S014
+P0065,Hair Dryer 2,Personal Care,3869.95,6508.52,S001
+P0066,Hair Dryer 3,Personal Care,393.85,532.82,S023
+P0067,Face Wash 1,Personal Care,1147.05,1654.78,S018
+P0068,Face Wash 2,Personal Care,2271.52,3789.07,S026
+P0069,Face Wash 3,Personal Care,3727.07,4603.71,S018
+P0070,Shampoo 1,Personal Care,2498.53,4235.08,S002
+P0071,Shampoo 2,Personal Care,1091.24,1470.6,S026
+P0072,Shampoo 3,Personal Care,2989.0,4628.49,S011
+P0073,Body Lotion 1,Personal Care,2864.75,4229.55,S010
+P0074,Body Lotion 2,Personal Care,3256.51,5226.88,S025
+P0075,Body Lotion 3,Personal Care,2484.9,3083.26,S007
+P0076,Face Cream 1,Personal Care,2055.91,3287.7,S001
+P0077,Face Cream 2,Personal Care,376.67,526.73,S014
+P0078,Face Cream 3,Personal Care,3571.02,4888.72,S028
+P0079,Electric Toothbrush 1,Personal Care,2357.57,3345.95,S022
+P0080,Electric Toothbrush 2,Personal Care,1379.8,1762.72,S030
+P0081,Electric Toothbrush 3,Personal Care,1217.51,1820.68,S022
+P0082,Hair Serum 1,Personal Care,1075.98,1312.07,S015
+P0083,Hair Serum 2,Personal Care,1504.74,1901.28,S001
+P0084,Hair Serum 3,Personal Care,3328.69,4446.37,S012
+P0085,Sunscreen 1,Personal Care,2529.27,3143.06,S013
+P0086,Sunscreen 2,Personal Care,858.08,1206.18,S003
+P0087,Sunscreen 3,Personal Care,2585.98,4042.0,S013
+P0088,Hand Wash 1,Personal Care,3881.19,6044.17,S019
+P0089,Hand Wash 2,Personal Care,3201.23,4274.97,S028
+P0090,Hand Wash 3,Personal Care,3001.77,3978.64,S026
+P0091,Coffee 1,Grocery,1927.16,3118.13,S009
+P0092,Coffee 2,Grocery,1392.57,1711.6,S026
+P0093,Coffee 3,Grocery,355.05,470.48,S030
+P0094,Tea 1,Grocery,233.05,300.97,S013
+P0095,Tea 2,Grocery,595.87,999.53,S007
+P0096,Tea 3,Grocery,1331.37,1887.66,S029
+P0097,Biscuits 1,Grocery,868.22,1149.41,S016
+P0098,Biscuits 2,Grocery,359.36,452.82,S029
+P0099,Biscuits 3,Grocery,276.34,337.96,S017
+P0100,Breakfast Cereal 1,Grocery,657.26,1110.61,S005
+P0101,Breakfast Cereal 2,Grocery,974.64,1217.24,S016
+P0102,Breakfast Cereal 3,Grocery,1623.48,2229.29,S030
+P0103,Cooking Oil 1,Grocery,896.01,1253.74,S010
+P0104,Cooking Oil 2,Grocery,1900.83,3123.71,S020
+P0105,Cooking Oil 3,Grocery,780.49,1180.83,S026
+P0106,Rice 1,Grocery,1027.03,1509.41,S013
+P0107,Rice 2,Grocery,367.72,454.24,S023
+P0108,Rice 3,Grocery,1891.29,3089.61,S027
+P0109,Pasta 1,Grocery,1611.85,2479.97,S003
+P0110,Pasta 2,Grocery,1304.41,1864.17,S019
+P0111,Pasta 3,Grocery,1650.25,2496.78,S001
+P0112,Spices 1,Grocery,1924.32,3180.28,S012
+P0113,Spices 2,Grocery,584.22,763.75,S014
+P0114,Spices 3,Grocery,85.53,106.67,S003
+P0115,Instant Noodles 1,Grocery,706.28,1079.1,S029
+P0116,Instant Noodles 2,Grocery,1697.51,2056.76,S002
+P0117,Instant Noodles 3,Grocery,558.35,808.5,S026
+P0118,Dry Fruits 1,Grocery,1408.64,2133.35,S029
+P0119,Dry Fruits 2,Grocery,126.41,178.11,S029
+P0120,Dry Fruits 3,Grocery,599.97,773.19,S009
+P0121,Notebook 1,Stationery,865.72,1288.16,S003
+P0122,Notebook 2,Stationery,636.55,882.26,S007
+P0123,Notebook 3,Stationery,883.4,1443.09,S005
+P0124,Pen Set 1,Stationery,380.74,586.31,S023
+P0125,Pen Set 2,Stationery,1139.18,1425.75,S017
+P0126,Pen Set 3,Stationery,815.46,1181.01,S025
+P0127,Marker Set 1,Stationery,500.47,824.66,S017
+P0128,Marker Set 2,Stationery,108.62,182.4,S019
+P0129,Marker Set 3,Stationery,164.19,223.24,S014
+P0130,Stapler 1,Stationery,1024.85,1477.08,S026
+P0131,Stapler 2,Stationery,958.8,1365.54,S003
+P0132,Stapler 3,Stationery,915.59,1352.19,S021
+P0133,Calculator 1,Stationery,1135.99,1812.8,S025
+P0134,Calculator 2,Stationery,196.79,327.75,S026
+P0135,Calculator 3,Stationery,114.61,169.02,S005
+P0136,File Folder 1,Stationery,1113.44,1640.05,S011
+P0137,File Folder 2,Stationery,202.09,256.96,S010
+P0138,File Folder 3,Stationery,1260.34,2058.68,S006
+P0139,Drawing Book 1,Stationery,153.64,238.22,S010
+P0140,Drawing Book 2,Stationery,613.08,1009.1,S002
+P0141,Drawing Book 3,Stationery,149.58,185.84,S019
+P0142,Highlighter Set 1,Stationery,884.52,1443.16,S022
+P0143,Highlighter Set 2,Stationery,1224.82,2049.89,S025
+P0144,Highlighter Set 3,Stationery,900.08,1237.71,S028
+P0145,Pencil Box 1,Stationery,152.75,242.65,S022
+P0146,Pencil Box 2,Stationery,1066.47,1412.39,S019
+P0147,Pencil Box 3,Stationery,193.46,279.8,S013
+P0148,Printer Paper 1,Stationery,625.65,929.55,S020
+P0149,Printer Paper 2,Stationery,204.66,257.62,S009
+P0150,Printer Paper 3,Stationery,1123.99,1731.53,S028
+P0151,Yoga Mat 1,Sports,7704.95,10690.12,S017
+P0152,Yoga Mat 2,Sports,846.55,1239.51,S021
+P0153,Yoga Mat 3,Sports,7713.14,9302.64,S013
+P0154,Football 1,Sports,536.65,883.1,S022
+P0155,Football 2,Sports,7412.22,12301.01,S004
+P0156,Football 3,Sports,4520.06,7614.72,S018
+P0157,Cricket Bat 1,Sports,1496.48,1958.0,S015
+P0158,Cricket Bat 2,Sports,3745.42,5669.74,S022
+P0159,Cricket Bat 3,Sports,3196.77,5014.29,S011
+P0160,Skipping Rope 1,Sports,2391.51,4006.27,S008
+P0161,Skipping Rope 2,Sports,3277.27,4107.66,S021
+P0162,Skipping Rope 3,Sports,2363.57,3058.6,S026
+P0163,Dumbbells 1,Sports,3228.49,4244.49,S028
+P0164,Dumbbells 2,Sports,806.33,1360.44,S027
+P0165,Dumbbells 3,Sports,5645.66,8288.1,S001
+P0166,Tennis Racket 1,Sports,3407.41,5115.85,S016
+P0167,Tennis Racket 2,Sports,1468.41,2430.9,S029
+P0168,Tennis Racket 3,Sports,7536.15,10613.31,S005
+P0169,Badminton Racket 1,Sports,4984.64,7023.96,S024
+P0170,Badminton Racket 2,Sports,7037.96,10386.58,S005
+P0171,Badminton Racket 3,Sports,405.66,563.15,S001
+P0172,Sports Bottle 1,Sports,3946.89,6680.68,S011
+P0173,Sports Bottle 2,Sports,4834.22,6721.72,S022
+P0174,Sports Bottle 3,Sports,6667.48,9898.15,S001
+P0175,Resistance Band 1,Sports,3855.81,5426.7,S001
+P0176,Resistance Band 2,Sports,306.64,379.52,S028
+P0177,Resistance Band 3,Sports,6540.63,11118.15,S006
+P0178,Gym Gloves 1,Sports,7322.69,10929.66,S021
+P0179,Gym Gloves 2,Sports,7569.17,12298.57,S017
+P0180,Gym Gloves 3,Sports,2080.46,2709.85,S001
+P0181,T-Shirt 1,Clothing,5738.09,8624.85,S030
+P0182,T-Shirt 2,Clothing,5305.86,8375.3,S002
+P0183,T-Shirt 3,Clothing,2341.53,2942.79,S026
+P0184,Jeans 1,Clothing,3139.54,4514.99,S003
+P0185,Jeans 2,Clothing,3264.93,5309.07,S022
+P0186,Jeans 3,Clothing,5817.45,7238.1,S027
+P0187,Hoodie 1,Clothing,2599.85,3294.03,S015
+P0188,Hoodie 2,Clothing,2697.05,4294.6,S014
+P0189,Hoodie 3,Clothing,4313.25,5635.18,S006
+P0190,Sports Shoes 1,Clothing,3818.4,6453.98,S018
+P0191,Sports Shoes 2,Clothing,3662.53,5113.34,S027
+P0192,Sports Shoes 3,Clothing,818.71,1279.81,S025
+P0193,Jacket 1,Clothing,3229.74,5141.19,S028
+P0194,Jacket 2,Clothing,1998.37,2921.22,S017
+P0195,Jacket 3,Clothing,5712.27,7274.79,S024
+P0196,Track Pants 1,Clothing,5099.92,8080.61,S020
+P0197,Track Pants 2,Clothing,2917.07,4929.9,S021
+P0198,Track Pants 3,Clothing,2280.26,2974.75,S011
+P0199,Casual Shirt 1,Clothing,1668.83,2065.9,S025
+P0200,Casual Shirt 2,Clothing,2922.68,4361.76,S011
+P0201,Casual Shirt 3,Clothing,1091.31,1659.27,S008
+P0202,Socks 1,Clothing,4270.06,6002.98,S003
+P0203,Socks 2,Clothing,3236.85,5459.13,S029
+P0204,Socks 3,Clothing,1396.05,1703.79,S005
+P0205,Cap 1,Clothing,2266.97,3114.39,S022
+P0206,Cap 2,Clothing,805.6,1015.31,S009
+P0207,Cap 3,Clothing,2329.15,3836.36,S017
+P0208,Sweatshirt 1,Clothing,3169.48,4897.47,S009
+P0209,Sweatshirt 2,Clothing,826.06,1190.0,S022
+P0210,Sweatshirt 3,Clothing,766.03,1253.83,S016
+P0211,Water Bottle 1,Home & Kitchen,399.28,534.41,S001
+P0212,Water Bottle 2,Home & Kitchen,514.13,770.5,S020
+P0213,Water Bottle 3,Home & Kitchen,1125.81,1559.51,S022
+P0214,Storage Box 1,Home & Kitchen,1256.97,1985.98,S014
+P0215,Storage Box 2,Home & Kitchen,2366.42,3724.12,S014
+P0216,Storage Box 3,Home & Kitchen,823.92,1043.54,S003
+P0217,Frying Pan 1,Home & Kitchen,4486.51,6531.63,S015
+P0218,Frying Pan 2,Home & Kitchen,249.31,407.27,S006
+P0219,Frying Pan 3,Home & Kitchen,2709.82,3580.31,S025
+P0220,Dinner Set 1,Home & Kitchen,3713.29,4794.38,S007
+P0221,Dinner Set 2,Home & Kitchen,1678.19,2191.25,S026
+P0222,Dinner Set 3,Home & Kitchen,2723.14,3585.31,S013
+P0223,Kitchen Container 1,Home & Kitchen,3008.6,4631.89,S003
+P0224,Kitchen Container 2,Home & Kitchen,3279.23,4721.41,S004
+P0225,Kitchen Container 3,Home & Kitchen,2731.82,4079.76,S008
+P0226,Lunch Box 1,Home & Kitchen,2974.02,4408.18,S010
+P0227,Lunch Box 2,Home & Kitchen,1490.5,2059.19,S026
+P0228,Lunch Box 3,Home & Kitchen,3077.02,4068.36,S027
+P0229,Cutlery Set 1,Home & Kitchen,4933.92,7415.13,S001
+P0230,Cutlery Set 2,Home & Kitchen,136.92,179.73,S006
+P0231,Cutlery Set 3,Home & Kitchen,1305.19,1671.09,S011
+P0232,Mug Set 1,Home & Kitchen,530.65,850.6,S024
+P0233,Mug Set 2,Home & Kitchen,4494.15,5573.27,S019
+P0234,Mug Set 3,Home & Kitchen,189.39,293.27,S024
+P0235,Chopping Board 1,Home & Kitchen,648.99,907.89,S028
+P0236,Chopping Board 2,Home & Kitchen,4595.24,5526.47,S022
+P0237,Chopping Board 3,Home & Kitchen,1363.72,1752.99,S019
+P0238,Food Storage Jar 1,Home & Kitchen,4122.22,6427.48,S011
+P0239,Food Storage Jar 2,Home & Kitchen,2900.9,3887.18,S012
+P0240,Food Storage Jar 3,Home & Kitchen,1104.88,1860.61,S004

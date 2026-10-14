@@ -1,0 +1,16 @@
+warehouse_id,warehouse_name,city,region,warehouse_capacity
+WH001,North Distribution Center,Delhi,North,10027
+WH002,South Distribution Center,Bengaluru,South,10695
+WH003,East Distribution Center,Kolkata,East,23422
+WH004,West Distribution Center,Mumbai,West,13258
+WH005,Central Distribution Center,Nagpur,Central,14736
+WH006,Pune Distribution Center,Pune,West,8391
+WH007,Hyderabad Distribution Center,Hyderabad,South,21986
+WH008,Jaipur Distribution Center,Jaipur,North,20666
+WH009,Ahmedabad Distribution Center,Ahmedabad,West,13892
+WH010,Lucknow Distribution Center,Lucknow,North,11561
+WH011,Chennai Distribution Center,Chennai,South,14184
+WH012,Indore Distribution Center,Indore,Central,16392
+WH013,Surat Distribution Center,Surat,West,21067
+WH014,Patna Distribution Center,Patna,East,23265
+WH015,Bhopal Distribution Center,Bhopal,Central,10454
